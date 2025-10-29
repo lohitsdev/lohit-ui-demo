@@ -374,7 +374,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-MIT © [Your Name]
+MIT
 
 ## 🙏 Acknowledgments
 
@@ -388,4 +388,4 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by LOHIT
